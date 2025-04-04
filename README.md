@@ -44,3 +44,9 @@ Multiplayer gaming servers
 Customer service systems (live chatbots)
 
 Online collaboration tools (like Google Docs or Slack)
+
+OUTPUT :
+
+![Image](https://github.com/user-attachments/assets/19fc6e83-d8e2-4f7d-9f2c-0fcb1ddfb363)
+
+![Image](https://github.com/user-attachments/assets/7d764afd-49f3-4cf4-b97d-14e2a711a762)
